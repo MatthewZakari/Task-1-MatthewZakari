@@ -1,4 +1,4 @@
-# Zakari - Simple Chatbot Project
+# Task 1: Zakari - Simple Chatbot Project
 
 This is a simple rule-based chatbot named Zakari, implemented in Python as part of the DecodeLabs Internship.
 
@@ -8,14 +8,17 @@ This is a simple rule-based chatbot named Zakari, implemented in Python as part 
 - Continuous execution until the user chooses to exit.
 - Simple `if-else` decision-making logic.
 
-## How to Run
-1. Ensure you have Python installed.
-2. Run the chatbot using:
-   ```bash
-   python chatbot.py
-   ```
+## Setup & Usage
+1.  Navigate to the project directory:
+    ```bash
+    cd Task-1-MatthewZakari
+    ```
+2.  Run the chatbot:
+    ```bash
+    python3 chatbot.py
+    ```
 
-## Usage
+## Commands
 - Type your message and press Enter.
 - Type `exit` or `quit` to stop the chatbot.
 - Type `help` to see available commands.
